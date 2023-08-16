@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello, I'm Ankit! 👋
 
-<!--
-**Ankitsaroj94/Ankitsaroj94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image](./images/git_pic_for_dp.png)
 
-Here are some ideas to get you started:
+## About Me 🌟
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **Passionate Developer**: My enthusiasm lies in crafting sophisticated, responsive, and efficient applications.
+  
+- 🚀 **Flutter Enthusiast**: I specialize in developing outstanding Flutter applications with a deep knowledge of the Dart language.
+
+- 🌱 **Tech Explorer**: Always driven by the curiosity to embrace emerging technologies, translating them into ingenious solutions.
+
+- 🤝 **Collaborative Spirit**: I believe in collective growth. Whether you're interested in discussing Flutter, app development, or anything tech-related, I'm all ears!
+
+![Profile Picture](./images/ankit.jpg)
+
+## Technologies & Tools 🛠
+
+```dart
+const ankit = {
+    code: ["Flutter", "Dart", "Python", "JavaScript", "HTML", "CSS"],
+    tools: ["VS Code", "Android Studio", "Firebase", "Docker", "GitHub"],
+    architecture: ["MVVM", "MVC", "Clean Architecture"],
+    currentLearning: "Machine Learning & AI",
+};
