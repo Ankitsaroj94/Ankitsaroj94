@@ -1,6 +1,18 @@
 
 # 💫 About Me:
-<br>🎯 Passionate Developer: My enthusiasm lies in crafting sophisticated, responsive, and efficient applications.<br><br>🚀 Flutter Enthusiast: I specialize in developing outstanding Flutter applications with a deep knowledge of the Dart language.<br><br>🌱 Tech Explorer: Always driven by the curiosity to embrace emerging technologies, translating them into ingenious solutions.<br><br>🤝 Collaborative Spirit: I believe in collective growth. Whether you're interested in discussing Flutter, app development, or anything tech-related, I'm all ears!
+🎯 <b>Starting Out:</b>  I'm new to development but full of enthusiasm. My goal is to make user-friendly apps that work smoothly.
+
+🚀<b> Flutter Beginner: </b>Just started with Flutter and Dart, but I'm dedicated. I'm learning every day and am excited about the journey ahead.
+
+📘 <b>Always Learning:</b> I'm curious about technology and always finding ways to learn more. I regularly check out tutorials and online forums to stay updated.
+
+👩‍💻 <b>Practical Learner:</b> Even though I'm new, I've started some personal projects to apply what I learn. I believe in learning by doing.
+
+🌐 <b>Community Minded:</b> I value the tech community. Connecting, discussing, and sharing with others is something I really enjoy.
+
+🔄 <b>Open to Feedback:</b> I believe feedback helps me grow. Any advice or constructive criticism is always appreciated.
+
+💡<b> Problem Solver:</b> I think development is about finding solutions. I'm always up for a challenge and thinking of creative ways to address it.
 
 
 ## 🌐 Socials:
