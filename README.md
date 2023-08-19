@@ -1,5 +1,6 @@
+![logo](./images/git_pic_for_dp.png)
 # Hello, I'm Ankit! 👋
-![Banner Image](./images/git_pic_for_dp.png)
+
 
 ## About Me 🌟
 
