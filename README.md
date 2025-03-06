@@ -1,18 +1,20 @@
 ![Header](https://github.com/Ankitsaroj94/Ankitsaroj94/blob/main/git_pic_for_dp.png)
 # 💫 About Me:
-🎯 <b>Starting Out:</b>  I'm new to development but full of enthusiasm. My goal is to make user-friendly apps that work smoothly.
 
-🚀<b> Flutter Beginner: </b>Just started with Flutter and Dart, but I'm dedicated. I'm learning every day and am excited about the journey ahead.
+🎯 **Experienced Developer**: With over a year of hands-on experience in software development, I have worked on multiple projects, building user-friendly, high-quality applications. My primary focus is on creating smooth and efficient user experiences.
 
-📘 <b>Always Learning:</b> I'm curious about technology and always finding ways to learn more. I regularly check out tutorials and online forums to stay updated.
+🚀 **Flutter Developer**: I specialize in Flutter and Dart for building cross-platform applications. I am proficient in state management using **GetX** and **Riverpod**, along with building robust APIs using **RESTful architecture**. I am constantly refining my skills and exploring new tools to enhance my development workflow.
 
-👩‍💻 <b>Practical Learner:</b> Even though I'm new, I've started some personal projects to apply what I learn. I believe in learning by doing.
+📘 **Tech Enthusiast & Lifelong Learner**: I am deeply passionate about technology and continuous learning. I actively engage in tutorials, online courses, and developer communities to stay updated with the latest trends and best practices.
 
-🌐 <b>Community Minded:</b> I value the tech community. Connecting, discussing, and sharing with others is something I really enjoy.
+👩‍💻 **Project-Focused Developer**: I believe in learning by doing, which is why I regularly work on personal projects and contribute to open-source initiatives. This hands-on approach helps me improve my skills and gain real-world experience.
 
-🔄 <b>Open to Feedback:</b> I believe feedback helps me grow. Any advice or constructive criticism is always appreciated.
+🌐 **Collaborative Mindset**: I am always open to collaboration, whether it’s working with teams or discussing new ideas within the tech community. Knowledge-sharing and teamwork are key elements to growth.
 
-💡<b> Problem Solver:</b> I think development is about finding solutions. I'm always up for a challenge and thinking of creative ways to address it.
+🔄 **Open to Feedback**: I believe that constructive criticism is vital for growth. I welcome feedback on my work and am always looking for ways to improve and refine my skills.
+
+💡 **Problem Solver**: I thrive on solving complex problems and developing innovative solutions. Whether it's debugging, improving app performance, or architecting new features, I am committed to providing thoughtful, efficient solutions.
+
 
 
 ## 🌐 Socials:
