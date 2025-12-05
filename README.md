@@ -108,25 +108,7 @@
 
 
 
-# 📊 GitHub Stats:
 
-<div align="center" >
-<table>
-<tr>
-<td width="50%" align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=Ankitsaroj94&theme=radical&hide_border=true&include_all_commits=true&count_private=true&border_radius=8)
-
-</td>
-<td width="50%" align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ankitsaroj94&theme=radical&hide_border=true&border_radius=8)
-
-</td>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
