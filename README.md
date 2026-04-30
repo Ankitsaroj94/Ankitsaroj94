@@ -1,36 +1,46 @@
 ![Header](https://github.com/Ankitsaroj94/Ankitsaroj94/blob/main/git_pic_for_dp.png)
 
 # 💫 About Me:
-🎯 **Flutter Developer** with hands-on experience building scalable, cross-platform mobile applications. Specialized in modern architectures (MVVM, MVC), real-time data synchronization, and offline-first solutions.
+🎯 **Flutter Developer** with hands-on experience building scalable, cross-platform mobile applications. Specialized in clean architecture (MVVM, MVC), real-time data synchronization, and offline-first solutions.
+
+I currently work at **Voxturr Labs** and have delivered **10+ Flutter projects**, contributing to **5+ production-scale products** across EdTech, FinTech, POS, e-commerce, and news domains.
 
 🚀 **Core Expertise**:
 - **Mobile Development**: Flutter, Dart, GetX, MVVM/MVC architecture, Atomic Design principles
 - **Backend Integration**: RESTful APIs, Dio, JWT Authentication, OAuth, Firebase (Auth, FCM, Firestore)
-- **Data Management**: Hive (local storage), Freezed, offline-first capabilities, caching & performance optimization
-- **Payment Solutions**: UPI, Cards, Wallets integration for seamless transactions
-- **Authentication**: Google, Facebook, Apple Sign-In, Firebase Auth, token-based security
+- **Data Management**: Hive, SQLite, Freezed, offline-first capabilities, caching and performance optimization
+- **Payment Solutions**: UPI, Cards, Wallets integration for seamless transaction workflows
+- **Authentication**: Google, Facebook, Apple Sign-In, Firebase Auth, secure token-based flows
+- **Workflow & Quality**: Git/GitHub, Agile delivery, peer code reviews, maintainable release-ready code
 
 💼 **Professional Journey**:
 
-**Flutter Developer — Voxturr Labs** *(Oct 2024 – Present)*
-- **Educational Communication App**: Built real-time communication platform for attendance tracking, homework updates, and performance reports with Firebase Cloud Messaging
-- **Loan Management App:**: Developed loan management solution with eligibility checks, comparison tools, and offline-first architecture using Hive
-- **Financial Planner App**: Created financial planner generating retirement and investment insights with encrypted REST APIs and notification scheduler
-- **Point of Sale (POS) App**: Engineered Point of Sale system for small businesses with MVVM architecture, inventory management, and multi-payment gateway support
+**Flutter Developer — Voxturr Labs** *(Oct 2024 - Present | Gurugram, Haryana)*
+- **Educational Communication App**: Built parent communication workflows for attendance, homework, announcements, and academic performance tracking with real-time updates and FCM alerts
+- **Loan Management App (FLIN)**: Developed eligibility checks, offer comparison, and repayment journeys with offline-first architecture using Hive
+- **Financial Planner App**: Built retirement and investment insight workflows backed by secure REST APIs and notification-driven reminders
+- **POS Operations App**: Engineered POS features for inventory, billing, and payments with MVVM architecture and reliability in low-connectivity environments
+- Implemented secure token-based authentication, optimized APIs for scale, and integrated AppsFlyer attribution with social authentication providers
 
-**Flutter Developer Intern — Apptunix Technology** *(June 2024 – Sep 2024)*
-- Contributed to e-commerce application using Atomic Design principles
-- Implemented secure login APIs, cart/wishlist modules with real-time synchronization
-- Participated in Agile sprints, code reviews, and Git-based version control workflows
+**Flutter Developer Intern — Apptunix Technology Private Limited** *(Jun 2024 - Sep 2024 | Mohali, Punjab)*
+- Contributed to an e-commerce Flutter app using Atomic Design for modular and maintainable UI
+- Implemented secure authentication with REST APIs and JWT, plus cart/wishlist with real-time synchronization
+- Applied GetX for state management and navigation to reduce UI-state complexity
+- Integrated Firebase services (Firestore + Firebase Auth) and collaborated in Agile sprint workflows
 
-📘 **Continuous Learning**: 
-- Certified in Dart, Git, GitHub, and Markdown
-- Actively exploring emerging Flutter packages and mobile development best practices
-- Committed to clean code principles and maintainable architecture patterns
+📘 **Continuous Learning**:
+- Practicing architecture-first Flutter development with focus on clean boundaries and long-term maintainability
+- Exploring modern Flutter tooling, package ecosystems, and performance optimization practices
+- Consistently improving code quality, testing discipline, and production debugging workflows
 
-💡 **Passionate About**: Building user-focused applications with optimized performance, solving complex technical challenges, and collaborating with cross-functional teams
+💡 **Passionate About**:
+- Building user-focused products with smooth, high-performance mobile UX
+- Designing scalable, future-ready app architecture
+- Solving practical product problems through clean engineering and collaboration
 
 🌐 **Portfolio**: [ankitsaroj.in](https://ankitsaroj.in)
+
+
 
 
 <div align="center">
